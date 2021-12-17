@@ -1,9 +1,9 @@
 #not operator#
 a=10
 if not(a%2==0 or a%5==0):
-    print("12 is not divisible by 2 or 5")
+    print("10 is not divisible by 2 or 5")
 else:
-    print("12 is divisible by either 2 or 5")
+    print("10 is divisible by either 2 or 5")
 
 
 #and operator#
